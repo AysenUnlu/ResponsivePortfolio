@@ -27,6 +27,7 @@ Usage:
 
      You'll see 3x2 matrix for images. 
      If you make the screen smaller, at the large and medium breakpoints , the image matrix will be 2x3. 
+
      ![Portfolio Page ] (assets/images/b2.png)
      
      If you make it smallest, at the small and xsmall(0px), the image matrix will be 1x5. 
@@ -38,8 +39,9 @@ Usage:
    - When you click the Contact page, you see name and email text fields and a text 
      area to write your message and a submit button to send it.  
 
-     ![Portfolio Page ] (assets/images/c1.png)
-     ![Portfolio Page ] (assets/images/c4.png)
+     ![Contact Page ] (assets/images/c1.png)
+     
+     ![Contact Page ] (assets/images/c4.png)
 
    - The footer is fixed to the bottom and does not run up with the length of the content.   
 
