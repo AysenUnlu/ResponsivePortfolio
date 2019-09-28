@@ -7,7 +7,7 @@ Installation:
 Usage:
    - When you run the application, you're welcomed with an About Me page:
 
-     ![About me page] (assets/images/a1.PNG)
+     ![About me page](assets/images/a1.png)
 
      The page is responsive. The paragraph wraps around the image at breakpoints-large(992px) 
 
