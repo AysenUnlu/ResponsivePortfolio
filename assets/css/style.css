@@ -1,5 +1,5 @@
 
-#cbody,#chtml{
+#cbody,#chtml{ /*To remove scroll on contacts page*/
     overflow:hidden;
     margin:0;
     padding:0;
@@ -11,7 +11,7 @@
 .jumbotron{
     min-height:950px;
 }
-body{
+body{ /*Default Styles*/
     font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
     color:#777777;
     margin:0;
@@ -30,29 +30,29 @@ h2,h3{
     color:#4aaaa5;
     font-family:"Georgia", Times, "Time New Roman", serif;
 }    
-.custom-size{
+.custom-size{ /*For sizing images*/
     width:200px;
     height:116px;
 }
-.custom-header{
+.custom-header{ /*For sizing image headers*/
     width:200px;
     height:29px;
 }
-@media screen and (min-width:576px) and (max-width:767px){
+@media screen and (min-width:576px) and (max-width:767px){ /*Small screen, navigation bar changes*/
     .container{
         margin:auto !important;
     }
     .navbar{
         height:6rem;
     }
-    .logo{
+    .logo{                          /*Positioning for my name tag*/
         position:absolute;
         left:-1.8rem;/*-30*/
         top:0;
         
       
     }
-    .navbar-brand{
+    .navbar-brand{                  /*Position list menu*/
         position:relative;
         width:45.8rem;/*734px*/
         left:-5rem;
@@ -71,12 +71,11 @@ h2,h3{
     }
 } 
 
-@media screen and (max-width:575px){
+@media screen and (max-width:575px){ /*xs screen navigation bar changes, fixes are made to prevent breakage of horizintal list*/
     
     .container{
-       /* margin-left:auto !important;
-        margin-right:auto !important;*/
-        margin:auto !important;
+
+        margin:auto !important; /*center the container*/
         height:100%;
         width:100%;
        
@@ -103,16 +102,16 @@ h2,h3{
     
     }
     .navbar-nav{
-        /**white-space:no-wrap; **/
+
         position:absolute;
         left:10rem;/*270px*/
         top:3rem;  /*50px*/
         margin-left:auto;
         margin-right:auto;
-        display:inline;
+        display:inline;   /*list menu is prevented from breaking*/
        
     }
-    .nav-item{
+    .nav-item{              /*List items with links floats left so menu does not break*/
        float:left;
        padding:1rem;
        
