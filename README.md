@@ -25,12 +25,12 @@ Usage:
 
      ![Portfolio Page ](assets/images/b1.png)
 
-     You'll see 3x2 matrix for images. 
-     If you make the screen smaller, at the large and medium breakpoints , the image matrix will be 2x3. 
+     You'll see 2x3 matrix for images. 
+     If you make the screen smaller, at the large and medium breakpoints , the image matrix will be 3x2. 
 
      ![Portfolio Page ](assets/images/b2.png)
      
-     If you make it smallest, at the small and xsmall(0px), the image matrix will be 1x5. 
+     If you make it smallest, at the small and xsmall(0px), the image matrix will be 5x1. 
      
      ![Portfolio Page ](assets/images/b3.png)
 
