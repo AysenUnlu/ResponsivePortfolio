@@ -1,47 +1,25 @@
 # ResponsivePortfolio
 Responsive Portfolio
+
 Installation:
+
     You can check the running project at:  
     https://aysenunlu.github.io/ResponsivePortfolio/
 
 Usage:
-   - When you run the application, you're welcomed with an About Me page:
 
-     ![About me page](assets/images/a1.png)
+   ![Responsive Portfolio](assets/images/ResponsivePortfolio.gif)
 
-     The page is responsive. The paragraph wraps around the image at breakpoints-large(992px) 
-
-     ![About me page](assets/images/a2.png)
-     and medium(768px) 
-
-     ![About me page](assets/images/a3.png)
-     
-     and at breakpoints-sm(576px) the paragraphs listed below the image
-
-     ![About me page](assets/images/a4.png)
+   - When you run the application, you're welcomed with an About Me page
+     The page is responsive. The paragraph wraps around the image at breakpoints-large(992px), medium(768px) and at breakpoints-sm(576px) the paragraphs listed below the image
 
    - When you click the portfolio page, you see matrix of images. The images are    
-     placeholders for links to your projects in the future.  
-
-     ![Portfolio Page ](assets/images/b1.png)
-
-     You'll see 2x3 matrix for images. 
-     If you make the screen smaller, at the large and medium breakpoints , the image matrix will be 3x2. 
-
-     ![Portfolio Page ](assets/images/b2.png)
+     placeholders for links to your projects in the future. You'll see 2x3 matrix for images. If you make the screen smaller, at the large and medium breakpoints , the image matrix will be 3x2. If you make it smallest, at the small and xsmall(0px), the image matrix will be 5x1. 
      
-     If you make it smallest, at the small and xsmall(0px), the image matrix will be 5x1. 
-     
-     ![Portfolio Page ](assets/images/b3.png)
-
      The images and page is responsive.
 
    - When you click the Contact page, you see name and email text fields and a text 
      area to write your message and a submit button to send it.  
-
-     ![Contact Page ](assets/images/c1.png)
-     
-     ![Contact Page ](assets/images/c4.png)
 
    - The footer is fixed to the bottom and does not run up with the length of the content.   
 
