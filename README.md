@@ -6,7 +6,7 @@ Responsive Portfolio
 
     You can check the running project at: 
 
-    https://aysenunlu.github.io/ResponsivePortfolio/
+  [https://aysenunlu.github.io/ResponsivePortfolio/](https://aysenunlu.github.io/ResponsivePortfolio/)
 
 ## Usage: ##
 
